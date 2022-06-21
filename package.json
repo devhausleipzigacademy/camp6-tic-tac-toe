@@ -1,0 +1,14 @@
+{
+	"name": "camp6-tic-tac-toe",
+	"version": "1.0.0",
+	"description": "",
+	"main": "main.js",
+	"scripts": {
+		"tsc": "node_modules/typescript/bin/tsc"
+	},
+	"author": "Franz Wollang",
+	"license": "ISC",
+	"dependencies": {
+		"typescript": "^4.7.4"
+	}
+}
